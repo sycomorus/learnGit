@@ -3,6 +3,4 @@ Git is free software.
 Git is good.
 Git tracks changes.
 Learning how to use branch.
-=======
-Learning how to use branch.
->>>>>>> dev
+this is master.
